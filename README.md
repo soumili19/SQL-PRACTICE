@@ -1,7 +1,7 @@
 # SQL_PRACTICE
 This repository contains my daily solutions to SQL query problems. I aim to upload at least two SQL query solutions every day as part of my learning journey.
 
-The problems are primarily taken from the popular SQL50 practice site, which offers a wide range of beginner to intermediate-level SQL challenges.
+The problems are primarily taken from the popular SQL50 practice site(The link is given in the about ), which offers a wide range of beginner to intermediate-level SQL challenges.
 
 For each solution, you can find:
 
